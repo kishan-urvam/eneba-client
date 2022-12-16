@@ -37,8 +37,7 @@
         "sort-packages": true,
         "secure-http": false
     },
-    "repositories": [
-    {
+    "repositories": {
         "type": "vcs",
         "url": "https://github.com/HelisLT/eneba-client"
     }
