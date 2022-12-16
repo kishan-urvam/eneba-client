@@ -4,12 +4,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Helis LT",
-            "email": "info@helis.lt"
+            "name": "Kishan Ambaliyala",
+            "email": "kishan.urvam@gmail.com"
         }
     ],
     "type": "library",
-    "prefer-stable": true,
+    "prefer-stable": false,
     "autoload": {
         "psr-4": {
             "Helis\\EnebaClient\\": "src/"
